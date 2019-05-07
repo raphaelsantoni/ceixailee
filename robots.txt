@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohcuawie.jobtalle.com/sitemap.xml
